@@ -1,6 +1,9 @@
 # 📚 My Book Collection
 
-This is a personal collection of books I've read outside of academic courses and research articles. I enjoy reading a wide range of genres, and I built this app to share a bit of who I am beyond programming.
+This is a collection of books I have read outside academic courses and besides research articles. I like reading books of different types. I think it would be nice to show you who I am outside of programming.
+
+![image](https://github.com/user-attachments/assets/0fdf3000-59d9-46b5-8b0e-1fc1910b0a02)
+
 
 ## ✨ Features
 
